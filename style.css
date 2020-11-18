@@ -1,0 +1,95 @@
+button{
+    height: 40px;
+        width: 40px;
+    background-color: dimgrey;
+    border-radius: 40px;
+margin:left:90px;
+    margin-right: 50px;
+}
+#toggle{
+    padding-right: 100px;
+    height: 20px; 
+    width:20px;
+}
+.navbar-header{
+    background-color: dimgrey;
+    text-align: left;
+}
+h1{
+    color: white;
+text-decoration: bold;
+}
+a{
+    color: white;
+  font-size: 20px;
+}
+#schoolimg{
+    height: 500px;
+    width; 500px;
+}
+body{
+background-image: url(bokeh.jpg);
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+#aboutUs{
+    text-align: center;
+}
+#img-philosophy{
+    padding-left: 500px;
+}
+h2{
+    color: white;
+}
+hr{
+    width: 300px;
+  color: black;
+}
+.achievement_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 50%;
+    display: inline-block;
+}
+.achievement_head i{
+    float: right;
+}
+.achievement_text span{
+    color: #ff7700;
+}
+h5{
+    text-align: left;
+    color: green;
+    background-color: white;
+ background-size: contain;
+}
+p{
+    color: white;
+}
+#newimg{
+height: 300px;
+    width: 350px;
+    border-top-left-radius:50px;
+    border-bottom-right-radius: 50px;
+    border: solid;
+   border-width: 10px;
+    border-color: white;
+}
+#whatnew{
+    background-color: white;
+}
+#nita{
+    color: black;
+    font-size: 20px;
+}
+.modal-title{
+    font: cursive;
+    font-size: 30px;
+}
+#alumni{
+    text-align: center;
+}
